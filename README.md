@@ -2,7 +2,6 @@
 
 Kilo is a privacy-focused, local-first personal finance application that helps you track expenses, manage budgets, and visualize your net worth without sending your data to the cloud.
 
-![Kilo Dashboard](https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&q=80&w=2000)
 
 ## 🔒 Privacy First
 Your financial data is yours. Kilo operates entirely on your local machine:
